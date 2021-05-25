@@ -377,19 +377,22 @@ main h1 {
 }
 
 .gallery-page img,
-.intro-img img {
+.intro-img img,
+.academic-container img {
 	transition: transform 0.8s ease-in-out;
 	border-radius: 1rem;
 }
 
 .gallery-page div,
-.intro-img div {
+.intro-img div,
+.academic-container div {
 	overflow: hidden;
 	border-radius: 1rem;
 }
 
 .gallery-page img:hover,
-.intro-img img:hover {
+.intro-img img:hover,
+.academic-container img:hover {
 	transform: scale(1.2);
 }
 
