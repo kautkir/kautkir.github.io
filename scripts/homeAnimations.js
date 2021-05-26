@@ -16,6 +16,5 @@ function scrollAppear() {
 
 // event listeners
 window.addEventListener('scroll', scrollAppear);
-// window.addEventListener('DOMContentLoaded ', );
 
 loadAppear();
